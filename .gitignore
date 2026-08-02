@@ -12,3 +12,6 @@ venv/*
 
 *.tar
 db_dump.sh
+
+# macOS Finder metadata
+.DS_Store
